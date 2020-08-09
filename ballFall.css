@@ -1,0 +1,9 @@
+body {
+    overflow: hidden;
+    background: url(https://media.istockphoto.com/videos/video-game-retro-background-video-id1008358364?s=640x640)
+}
+
+#gameScreen {
+    background-color: white;
+    border: 2px solid black;
+}
